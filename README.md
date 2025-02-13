@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Sean 👋  
 
-<!--
-**SeanBNU/SeanBNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Fun fact: AI writes 92% of my code._
 
-Here are some ideas to get you started:
+- I spend my time building dope projects that I find fun and exciting — lately, lots of AI stuff. (check out https://promptmaster.gg and https://retro.builders) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I've worked in both corporate and startup environments, so I know how to scale things up and break things fast.
+
+- Always learning, always experimenting.
+
+- Currently seeking jobs
+
+If you wanna talk shop, hit me up.  
+📍 Find me on [LinkedIn](https://linkedin.com/in/seanblundin).  
+
+### 🛠️ Favorite Tools  
+Railway, React, v0, Windsurf, DeepSeek R1, Python, TensorFlow, Gemini 2.0 Flash Thinking Experimental 01-21 Stuck in Thought Loops.  
+
+### 🚫 Least Favorite Tools  
+JavaScript, anything Microsoft (except VSCode).
+
+p.s. I sell custom websites at (shhhhh)
