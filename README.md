@@ -1,6 +1,6 @@
 # Hey, I'm Sean 👋  
 
-_Fun fact: AI writes 92% of my code._
+_Fun fact: AI writes 92% of my code. Learn why*_
 
 - I spend my time building dope projects that I find fun and exciting — lately, lots of AI stuff. (check out https://promptmaster.gg and https://retro.builders) 
 
