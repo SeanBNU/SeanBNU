@@ -13,7 +13,7 @@ Things I like rn:
 
 ### Featured Projects
 
-| Project | Description |
+|  Project  |  Description  |
 |-----------|-------------|
 | 🐦 **[Chirp](https://genuine-encouragement-production.up.railway.app)** | I'll build a full-stack custom app for you for $1000, and publish it to the entire internet. This is a cool example. ([code](https://github.com/SeanBNU/chirp)) |
 | 🎯 **[PromptMaster](https://promptmaster.gg)** | Sharpen your AI prompting skills |
