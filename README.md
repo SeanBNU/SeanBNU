@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=400&color=A855F7&vCenter=true&width=500&lines=full-time+vibecoder.+*cough*;*ahem*+...AI-native+full-stack+developer.;I+make+custom+websites+and+apps.;Click+here+to+learn+more!!!)](https://seanblundin.com)
 
+**→ [seanblundin.com](https://seanblundin.com)**
+
 Things I like rn:
 - Great UX
 - Paul Graham's essays
 - Reinventing marketing & sales pipelines for startups
 
 ---
-
-**→ [seanblundin.com](https://seanblundin.com)**
 
 ### Featured Projects
 
