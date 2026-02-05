@@ -1,18 +1,21 @@
 # Hey, I'm Sean 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&vCenter=true&width=500&lines=I+love+building+things.;AI-native+full-stack+developer.;Founder+energy%2C+engineer+brain.)](https://seanblundin.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&vCenter=true&width=500&lines=full+time+vibecoder.;AI-native+full-stack+dev.;I+make+custom+websites.;Click+here+to+learn+more!.)](https://seanblundin.com)
 
-I build products I find fun — usually at the intersection of AI and great UX. I've shipped in startups and big companies, but I'm happiest when I'm making something new.
-
-**→ [seanblundin.com](https://seanblundin.com)**
+Things I like rn:
+- Great UX
+- Paul Graham's essays
+- Reinventing marketing & sales pipelines for startups
 
 ---
+
+**→ [seanblundin.com](https://seanblundin.com)**
 
 ### Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🐦 **[Chirp](https://github.com/SeanBNU/chirp)** | Full-stack Twitter clone with vibes, reactions, and achievements |
+| 🐦 **[Chirp](https://genuine-encouragement-production.up.railway.app)** | I'll build a full-stack custom app for you for $1000, and publish it to the entire internet. This is a cool example. ([code](https://github.com/SeanBNU/chirp)) |
 | 🎯 **[PromptMaster](https://promptmaster.gg)** | Sharpen your AI prompting skills |
 | 🕹️ **[Retro Builders](https://retro.builders)** | Nostalgia meets creation |
 
@@ -20,7 +23,7 @@ I build products I find fun — usually at the intersection of AI and great UX. 
 
 ### Currently building with
 
-`Cursor` · `Claude` · `React` · `TypeScript` · `Railway` · `PyTorch`
+`Railway` · `Cursor` · `Claude Opus 4.5` · `React` · `TypeScript`
 
 ---
 
@@ -30,5 +33,5 @@ I build products I find fun — usually at the intersection of AI and great UX. 
 </p>
 
 <p align="center">
-  <sub>I've been making things on the internet since 2014 · <a href="https://scratch.mit.edu/users/bouncycat/">proof</a> 🐱</sub>
+  <sub>I've been making things on the internet since 2016 · <a href="https://scratch.mit.edu/users/bouncycat/">proof</a> 🐱</sub>
 </p>
