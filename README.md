@@ -1,6 +1,6 @@
 # Hey, I'm Sean 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=4000&pause=500&color=A855F7&vCenter=true&width=500&lines=full-time+vibecoder.;I+meant...;AI-native+full-stack+developer.;I+make+custom+websites.;Click+here+to+learn+more!!!)](https://seanblundin.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=2000&pause=300&color=A855F7&vCenter=true&width=500&lines=full-time+vibecoder.;I+meant...;AI-native+full-stack+developer.;I+make+custom+websites.;Click+here+to+learn+more!!!)](https://seanblundin.com)
 
 Things I like rn:
 - Great UX
