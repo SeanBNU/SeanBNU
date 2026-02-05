@@ -1,32 +1,34 @@
-# [Hey, I'm Sean](https://seanblundin.com) 👋
+# Hey, I'm Sean 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=AI-native+builder.;Shipping+fast%2C+learning+faster.;92%25+AI-written+code+before+it+was+cool.)](https://seanblundin.com/approach)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&vCenter=true&width=500&lines=I+love+building+things.;AI-native+full-stack+developer.;Founder+energy%2C+engineer+brain.)](https://seanblundin.com)
 
-I build things I find fun—lately, that means a lot of AI. A few recent ones:
+I build products I find fun — usually at the intersection of AI and great UX. I've shipped in startups and big companies, but I'm happiest when I'm making something new.
 
-🎯 **[PromptMaster](https://promptmaster.gg)** — sharpen your prompting skills  
-🕹️ **[Retro Builders](https://retro.builders)** — nostalgia meets creation
-
-I've shipped in both corporate and startup environments, so I know how to scale things up *and* break things fast.
+**→ [seanblundin.com](https://seanblundin.com)**
 
 ---
 
-### 🛠️ Current Stack
-`Cursor` · `Claude Opus 4.5` · `React` · `Railway` · `PyTorch` · `flash-thinking models in thought loops`
+### Featured Projects
 
-### 🚫 Banned from my machine
-Anything Microsoft (VSCode gets a pass)
-
----
-
-<a href="https://github.com/SeanBNU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeanBNU&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanBNU&layout=compact&theme=github_dark&hide_border=true" />
-</a>
+| Project | Description |
+|---------|-------------|
+| 🐦 **[Chirp](https://github.com/SeanBNU/chirp)** | Full-stack Twitter clone with vibes, reactions, and achievements |
+| 🎯 **[PromptMaster](https://promptmaster.gg)** | Sharpen your AI prompting skills |
+| 🕹️ **[Retro Builders](https://retro.builders)** | Nostalgia meets creation |
 
 ---
 
-[![Website](https://img.shields.io/badge/seanblundin.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seanblundin.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seanblundin)
-[![Consulting](https://img.shields.io/badge/Let's_Talk-FF5722?style=for-the-badge&logo=protonmail&logoColor=white)](https://seanblundin.com/consulting)
-[![Websites](https://img.shields.io/badge/I_Build_Websites-8B5CF6?style=for-the-badge&logo=webflow&logoColor=white)](https://seanblundin.com/websites)
+### Currently building with
+
+`Cursor` · `Claude` · `React` · `TypeScript` · `Railway` · `PyTorch`
+
+---
+
+<p align="center">
+  <a href="https://seanblundin.com"><img src="https://img.shields.io/badge/Website-seanblundin.com-A855F7?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/seanblundin"><img src="https://img.shields.io/badge/LinkedIn-seanblundin-0A66C2?style=flat-square&logo=linkedin" /></a>
+</p>
+
+<p align="center">
+  <sub>I've been making things on the internet since 2014 · <a href="https://scratch.mit.edu/users/bouncycat/">proof</a> 🐱</sub>
+</p>
