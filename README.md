@@ -27,6 +27,22 @@ Things I like rn:
 
 ---
 
+---
+
+### GitHub Activity
+
+<!-- Option A: Contribution Snake (requires Action setup - see below) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SeanBNU/SeanBNU/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Option B: Activity Graph (works instantly) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeanBNU&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://seanblundin.com"><img src="https://img.shields.io/badge/Website-seanblundin.com-A855F7?style=flat-square" /></a>
   <a href="https://linkedin.com/in/seanblundin"><img src="https://img.shields.io/badge/LinkedIn-seanblundin-0A66C2?style=flat-square&logo=linkedin" /></a>
