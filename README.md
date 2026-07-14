@@ -23,7 +23,7 @@ Things I like rn:
 
 ### Currently building with
 
-`Railway` · `Cursor` · `Claude Code + Opus 4.7` · `React` · `TypeScript`
+`Railway` · `Cursor` · `Claude Code + Fable + Claude Tag` · `React` · `TypeScript`
 
 ---
 
