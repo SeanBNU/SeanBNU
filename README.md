@@ -15,7 +15,7 @@ Things I like rn:
 
 |  Project  |  Description  |
 |-----------|-------------|
-| 🐦  **[Chirp](https://genuine-encouragement-production.up.railway.app)** | I'll build a full-stack custom app for you for $1000, and publish it to the entire internet. This is a cool example. ([code](https://github.com/SeanBNU/chirp)) |
+| 🐦  **[Chirp](https://genuine-encouragement-production.up.railway.app)** | I'll build a full-stack custom app for you for $1000, and publish it to the entire internet. This is a cool example. ([code](https://github.com/seanblundin/chirp)) |
 | 🎯  **[PromptMaster](https://promptmaster.gg)** | Sharpen your AI prompting skills |
 | 🕹️  **[Retro Builders](https://retro.builders)** | Nostalgia meets creation |
 
@@ -30,7 +30,7 @@ Things I like rn:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SeanBNU/SeanBNU/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/seanblundin/seanblundin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
